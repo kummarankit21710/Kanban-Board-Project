@@ -8,6 +8,7 @@ const removeBtn = document.querySelector(".remove-btn");
 const toolboxColors = document.querySelectorAll(".color");
 const x = 234;
 const y=112;
+const z= "added in branch1";
 
 /** local variables */
 let modalPriorityColor = "black";
