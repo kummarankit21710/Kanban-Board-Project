@@ -6,6 +6,7 @@ const textArea = document.querySelector(".textArea-cont");
 const allPriorityColors = document.querySelectorAll(".priority-color");
 const removeBtn = document.querySelector(".remove-btn");
 const toolboxColors = document.querySelectorAll(".color");
+const x = 234;
 
 /** local variables */
 let modalPriorityColor = "black";
