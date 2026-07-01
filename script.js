@@ -7,7 +7,8 @@ const allPriorityColors = document.querySelectorAll(".priority-color");
 const removeBtn = document.querySelector(".remove-btn");
 const toolboxColors = document.querySelectorAll(".color");
 const x = 234;
-const y=112;
+const y = 112;
+const z = "new";
 
 /** local variables */
 let modalPriorityColor = "black";
