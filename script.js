@@ -10,6 +10,7 @@ const x = 234;
 const y=112;
 const z= "added in branch1";
 const p="added";
+const q="mango"
 
 /** local variables */
 let modalPriorityColor = "black";
